@@ -1,0 +1,380 @@
+@font-face {
+  font-family: 'roboto-bold';
+  src: url('../font/Roboto-Bold.ttf');
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-text{
+  font-family: 'roboto-bold';
+}
+
+.dea {
+  height: 70px;
+  background-color: #B36050;
+}
+
+
+.orders {
+  color: #F1D3B9;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.story {
+  height: 60px;
+
+}
+
+.shop {
+  display: flex;
+  justify-content: space-between;
+  gap: 45px;
+  padding-top: 15px;
+}
+
+.edit {
+  display: flex;
+  gap: 25px;
+  padding-top: 15px;
+  margin-left: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #B36050;
+}
+
+.dea_img {
+  padding-right: 167px;
+}
+
+
+.account {
+  padding-top: 13px;
+  margin-right: 20px;
+  color: #B36050;
+  display: flex;
+}
+
+
+
+.of {
+  width: 20px;
+  height: 20px;
+  margin-left: 12px;
+  margin-top: 1px;
+  margin-right: 5px;
+}
+
+.monson {
+  height: 440px;
+  position: relative;
+}
+
+.hydr {
+  padding: 25px 0px;
+}
+
+
+.rec {
+  width: 1300px;
+  height: 420px;
+}
+
+
+.now {
+  width: 100px;
+  height: 36px;
+  background-color: #B36050;
+  border: 1px solid #B36050;
+  color: #fff;
+  position: absolute;
+  top: 350px;
+  right: 590px;
+}
+
+
+.meet {
+  height: 184px;
+  background-color: #A9AE8D;
+}
+
+.anime {
+  background-color: #F6F4EC;
+}
+
+.pick {
+  height: 183px;
+}
+
+.read {
+  margin-left: 70px;
+  padding-top: 40px;
+  color: #F6F4EC;
+}
+
+.about {
+  height: 900px;
+
+}
+
+.aboutt {
+  display: flex;
+  justify-content: space-around;
+}
+
+.bootle {
+  padding: 50px 0px;
+  text-align: center;
+  color: #B36050;
+
+}
+
+
+.the {
+  color: #B36050;
+}
+
+.emport {
+  padding-left: 190px;
+}
+
+.desert{
+  text-align: center;
+}
+
+
+
+.with {
+  display: flex;
+  padding-left:41px ;
+}
+
+.ver {
+  background-color: #DF9B7A;
+  width: 1220px;
+  height: 50px;
+  margin-top: -7px;
+
+}
+
+.export {
+  position: relative;
+  top: 10px;
+  left: 378px;
+  font-size: 20px;
+  color: #F6F4EC;
+}
+
+.spec {
+  position: absolute;
+  right: 6px;
+}
+
+.spec p {
+  margin-right: 406px;
+  color: #F6F4EC;
+  font-size: 18px;
+}
+
+.prt {
+  width: 1200px;
+  height: 700px;
+}
+
+.esc {
+  width: 660px;
+  height: 480px;
+  position: relative;
+  top: 170px;
+  background-color: #fff;
+  right: 288px;
+}
+
+.group {
+  text-align: center;
+  position: relative;
+  top: 50px;
+  color: brown;
+}
+
+.dolor {
+  position: relative;
+  top: 70px;
+  width: 274px;
+  left: 50px;
+  color: brown;
+}
+
+.shark {
+  position: relative;
+  top: 100px;
+  left: 50px;
+  color: brown;
+}
+
+.music {
+  width: 450px;
+  position: relative;
+  left: 250px;
+  top: 40px;
+  height: 620px;
+}
+
+.got {
+  display: flex;
+  width: 1298px;
+  background-color: #f1d3b9;
+  margin-top: 50px;
+  height: 710px;
+}
+
+.code img {
+  position: relative;
+  width: 250px;
+  height: 386px;
+  top: 310px;
+  right: 510px;
+}
+
+.web {
+  width: 1300px;
+  margin: 0 auto;
+}
+
+.polic {
+  text-align: center;
+  padding-top: 70px;
+}
+
+.fram {
+  width: 1298px;
+
+}
+
+.after {
+  display: flex;
+  gap: 100px;
+
+}
+
+.only {
+  padding-left: 300px;
+  color: #B36050;
+}
+.teg{
+  width:1307px ;
+  background-color: #F6F4EC;
+  padding: 30px 23px;
+}
+
+.cubject {
+  width: 505px;
+  height: 40px;
+  border: 1px solid #B36050;
+  padding-left: 360px;
+  background-color: #fff;
+  color: #B36050;
+  font-family: 'roboto-bold';
+}
+
+
+.all {
+  color: #B36050;
+  padding-top: 90px;
+}
+
+.editt{
+  font-family: 'roboto-bold';
+}
+
+.enter{
+  font-family: 'roboto-bold';
+}
+
+.infor{
+  font-family: 'roboto-bold';
+}
+
+.region{
+ font-family: 'roboto-bold';
+}
+
+.lego{
+  font-family: 'roboto-bold';
+}
+
+.now{
+  font-family: 'roboto-bold';
+}
+
+.read{
+  font-family: 'roboto-bold';
+}
+
+.bootle{
+  font-family: 'roboto-bold';
+}
+
+.the{
+  font-family: 'roboto-bold';
+}
+
+.export{
+  font-family: 'roboto-bold';
+}
+
+.spece{
+  font-family: 'roboto-bold';
+}
+
+.group{
+  font-family: 'roboto-bold';
+  color: #B36050;
+}
+
+.dolor{
+  font-family: 'roboto-bold';
+  color: #B36050;
+  font-size: 15px;
+}
+.shark{
+  font-family: 'roboto-bold';
+  color: #B36050;
+  font-size: 15px;
+}
+
+.polic{
+  font-family: 'roboto-bold';
+  color: #000;
+}
+
+.very{
+  font-family: 'roboto-bold';
+  color: #B36050;
+}
+
+.only{
+  font-family: 'roboto-bold';
+  color: #B36050;
+}
+
+.all{
+  font-family: 'roboto-bold';
+}
+
+.showroom{
+  font-family: 'roboto-bold';
+  color: #B36050;
+}
+
+.pm{
+  font-family: 'roboto-bold';
+  color: #B36050; 
+}
